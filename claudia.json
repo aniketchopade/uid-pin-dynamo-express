@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "uid-pin-dynamo-express-executor",
+    "name": "uid-pin-dynamo-express",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gmkgxz4rnh"
+  }
+}
